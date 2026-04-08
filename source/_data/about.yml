@@ -1,0 +1,102 @@
+- class_name: 关于页
+  subtitle: 生活明朗，万物可爱✨
+  avatarImg: /avatar.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: Danny
+  description: 是一名 后端工程师、学生、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，杭州
+    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
+    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2004
+    selfInfoTips2: 浙大城市学院
+    selfInfoContent2: 计算机科学与技术 CS
+    selfInfoTips3: 在职牛马
+    selfInfoContent3: 大四学生👨‍🎓
+  personalities:
+    author_name: 执政官
+    personality_type: ESFJ-A
+    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 尽我所能，
+    maxim_bottom: 爱我所爱.
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 酸菜鱼
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 三角洲行动
+    game_uid: "UID: 希腊奶"
+    game_bg: https://game.gtimg.cn/images/dfm/cp/a20240906main/p4_img14.jpg
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://i0.hdslb.com/bfs/bangumi/image/4179b4398bad6f92e876e352cae21be7b8ceb8bf.png@450w_600h.webp
+      - name: 咒术回战
+        href: https://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png@450w_600h.webp
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 天气之子
+        href: https://www.bilibili.com/bangumi/media/md28228734
+        cover: https://i0.hdslb.com/bfs/bangumi/image/33680a2209c4dba76322b2ffeeaf3dd821db576c.png@450w_600h.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 周杰伦、民谣、华语流行
+    music_bg: https://pic4.zhimg.com/v2-78886e6d3de779c1fb99a708bbdbcea7_1440w.jpg
+    music_link: /music
+  reward_list:
+    - name: o(*////▽////*)q 会是你吗，大人 
+      amount: 888
+      datatime: 2026-01-01
