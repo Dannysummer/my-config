@@ -432,15 +432,15 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2026
   custom_text:
   runtime:
     enable: true
     launch_time: 04/01/2021 00:00:00 # 网站上线时间
-    work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
+    # work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
-    offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
-    offduty_description: 下班了就该开开心心的玩耍，嘿嘿~
+    # offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
+    # offduty_description: 下班了就该开开心心的玩耍，嘿嘿~
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
   bdageitem:
@@ -530,7 +530,7 @@ footer:
     enable: true
     authorLink: /
     cc:
-      enable: false
+      enable: true
       link: /copyright
     linkList:
       - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
@@ -620,7 +620,7 @@ site_verification:
 theme_color:
   enable: true
   main: "#3498DB"
-  dark_main: "#5c94ff"
+  dark_main: "#3B9EDE"
   paginator: "#3498DB"
   button_hover: "#87CEEB"
   text_selection: "rgba(52, 152, 219, 0.3)"
@@ -670,7 +670,7 @@ category_ui: # 留空或 index
 tag_ui: # 留空或 index
 
 # Footer Background
-footer_bg: true
+footer_bg: false
 
 # the position of bottom right button/default unit: px (右下角按钮距离底部的距离/默认单位为px)
 rightside-bottom: 100px
@@ -1259,8 +1259,6 @@ inject:
     - <link rel="stylesheet" href="/css/custom-fonts.css media="defer" onload="this.media='all'">
 
   bottom:
-    # 自定义js
-    # - <script src="/js/xxx"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
